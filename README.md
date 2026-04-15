@@ -205,8 +205,4 @@ During simulation:
 - Vivado 
   
 
-
-
-- Internship Task Submission (CODTECH)
-
----
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e6161bdb-c710-4267-8f51-fdac3d748f91" />
